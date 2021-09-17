@@ -1,8 +1,6 @@
 *.o
 *.out
 *.exe
-<<<<<<< HEAD
-=======
 *.zip
 bienvenue
->>>>>>> fonction-bienvenue
+
